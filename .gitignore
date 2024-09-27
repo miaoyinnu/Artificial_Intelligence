@@ -1,9 +1,7 @@
 # Prerequisites
 *.d
-*.md
 *.pdf
 *.ppt
-*.png
 # Compiled Object files
 *.slo
 *.lo
